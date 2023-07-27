@@ -2,6 +2,7 @@
 .DS_Store
 .vscode/
 
-# Jellykins/bundler output
+# Jellykins/bundler/rby output
 _site/
  .saas-cache/
+ Gemfile.lock
