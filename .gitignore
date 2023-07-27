@@ -1,3 +1,7 @@
 # Miscellany
 .DS_Store
 .vscode/
+
+# Jellykins/bundler output
+_site/
+ .saas-cache/
