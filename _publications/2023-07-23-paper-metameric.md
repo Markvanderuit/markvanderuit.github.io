@@ -1,11 +1,11 @@
 ---
 title: "Metameric: Spectral Uplifting via Controllable Color Constraints"
 collection: publications
-permalink: /publication/2023-metameric
+permalink: /publications/2023-07-23-paper-metameric
 excerpt: 'This paper is about the number 4. The number 5 is left for future work.'
-date: 2023-10-01
+date: 2023-07-23
 venue: 'Siggraph 2023 Conference Proceeedings'
-paperurl: 'https://markvanderuit.github.io/files/2023-metameric.pdf'
+paperurl: 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
