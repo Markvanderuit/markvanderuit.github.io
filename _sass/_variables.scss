@@ -6,14 +6,18 @@
 /* --- */
 
 /* Colors */
-$background-color: #141010 !default;
+$background-color: #232937 !default;
 $text-color: #fff6fb !default;
-$primary-color: #f21368 !default;
+// $primary-color: #f21368 !default;
+$primary-color: #ffaa33 !default;
+$secondary-color: #1e2431 !default;
+
+/* Mixtures */
 $border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: $secondary-color !default;
+$code-background-color: $secondary-color !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: mix($primary-color, #000, 10%) !default;
 $link-color: $primary-color !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
@@ -54,7 +58,6 @@ $base0f: #cc6633 !default;
 .pagination--pager {
   color: $text-color;
   background-color: $footer-background-color;
-//   background-color: $primary-color;
   border-color: transparent;
 
   &:visited {

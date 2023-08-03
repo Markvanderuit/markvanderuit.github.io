@@ -6,7 +6,6 @@ date       : 2023-07-23
 venue      : 'Siggraph Conference Proceeedings'
 paperurl   : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.pdf'
 demourl    : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.zip'
-citation   : 'Mark van de Ruit and Elmar Eisemann. 2023.'
 image      : '../images/publications/metameric-teaser.png'
 bibtex     :
   name       : 'RuitEisemann2023'

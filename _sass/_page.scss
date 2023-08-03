@@ -48,8 +48,21 @@
   font-size: $type-size-4;
 }
 
-.page__content {
+.page__inner-wrap {
+  a {
+    text-decoration: none;
 
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
+  }
+}
+
+.page__content {
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -73,7 +86,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;

@@ -5,7 +5,6 @@ permalink  : /publications/2021-11-27-paper-spectral
 date       : 2021-11-27
 venue      : 'Computer Graphics Forum'
 paperurl   : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.pdf'
-citation   : 'Mark van de Ruit and Elmar Eisemann. 2023.'
 image      : '../images/publications/spectral-teaser.png'
 bibtex     :
   name       : 'RuitEisemann2021'
