@@ -11,5 +11,5 @@
   <i class="fas fa-fw fa-link" style="margin-right: 0.25em"></i>Journal
 </a>{% endif %}
 <a style="margin-right: .5em;" onClick="document.getElementById('citation').scrollIntoView();">
-  <i class="fas fa-fw fa-code" style="margin-right: 0.25em"></i>Cite
+  <i class="fas fa-fw fa-solid fa-quote-left" style="margin-right: 0.25em"></i>Cite
 </a>
