@@ -7,7 +7,7 @@
 {% if page.codeurl %}<a href="{{ page.codeurl }}" style="margin-right: .5em;">
   <i class="fas fa-fw fa-code" style="margin-right: 0.25em"></i>Code
 </a>{% endif %}
-{% if post.journalurl %}<a href="{{ post.journalurl }}" style="margin-right: .5em;">
+{% if page.journalurl %}<a href="{{ page.journalurl }}" style="margin-right: .5em;">
   <i class="fas fa-fw fa-link" style="margin-right: 0.25em"></i>Journal
 </a>{% endif %}
 <a style="margin-right: .5em;" onClick="document.getElementById('citation').scrollIntoView();">
