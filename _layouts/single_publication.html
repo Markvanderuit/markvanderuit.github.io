@@ -30,7 +30,7 @@ layout: default
           {% if page.bibtex %}
             <p> 
               {{ page.bibtex.author }}  <br> 
-              Published in <i>{{ page.venue }}</i>, presented at <i>{{ page.conference }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
+              <i>{{ page.venue }}</i>&nbsp; (<i>{{ page.conference }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }})
             </p>
           {% endif %}
           {% if page.image %}

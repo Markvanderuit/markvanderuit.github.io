@@ -3,8 +3,8 @@ title      : "Metameric: Spectral Uplifting via Controllable Color Constraints"
 collection : publications
 permalink  : /publications/2023-07-23-paper-metameric
 date       : 2023-07-23
-venue      : 'Siggraph Conference Proceeedings'
-conference : 'Siggraph'
+venue      : 'SIGGRAPH Conference Proceeedings'
+conference : 'SIGGRAPH'
 paperurl   : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.pdf'
 demourl    : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.zip'
 image      : '../images/publications/metameric-teaser.png'
