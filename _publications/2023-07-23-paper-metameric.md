@@ -5,8 +5,8 @@ permalink  : /publications/2023-07-23-paper-metameric
 date       : 2023-07-23
 venue      : 'SIGGRAPH Conference Proceeedings'
 conference : 'SIGGRAPH'
-paperurl   : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.pdf'
-demourl    : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric.zip'
+paperurl   : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric/metameric-paper.pdf'
+demourl    : 'https://markvanderuit.github.io/files/2023-07-23-paper-metameric/metameric-demo.zip'
 image      : '../images/publications/metameric-teaser.png'
 bibtex     :
   name       : 'RuitEisemann2023'
