@@ -14,7 +14,7 @@ I'm a fourth-year PhD student at the [Computer Graphics & Visualization](https:/
 
 During my research, I mostly work with OpenGL/C++, which leads to the occasional demos and renders. I've also picked up a liking for vector art, both in my publications and personal time. You can find plenty of examples throughout my portfolio and publications.
 
-In my own time, I enjoy video games, reading fantasy/sci-fi, and running. I'm also a big fan of tabletop RPGs and worldbuilding, so I run a few games as an occasionally grumpy game master. I don't really use social networks, but if you'd like to chat, feel free to contact me!
+In my own time, I enjoy playing video games, reading fantasy/sci-fi, and running. I'm also a fan of tabletop RPGs and worldbuilding, so I run a few games as an occasionally grumpy game master. I don't really use social networks, but if you'd like to chat, feel free to contact me!
 
 ## Recent publications
 
