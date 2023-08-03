@@ -5,13 +5,14 @@
 div.highlighter-rouge, figure.highlight {
   position: relative;
   margin-bottom: 1em;
+  margin-top: 1em;
   padding: 1em;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background-color: $code-background-color;
   box-shadow: $box-shadow;
 
-  &:before {
+  /* &:before {
     position: absolute;
     top: 0;
     right: 0;
@@ -23,19 +24,19 @@ div.highlighter-rouge, figure.highlight {
     line-height: 1;
     text-transform: none;
     speak: none;
-  }
+  } */
 
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: $type-size-8;
     line-height: 1.8;
   }
 }
 
-.highlight table td { padding: 5px; }
+.highlight table td  { padding: 5px; }
 .highlight table pre { margin: 0; }
-
+.highlight pre { margin: 0; }
 
 /*
    Solarized Light

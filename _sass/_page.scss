@@ -160,6 +160,10 @@
   }
 }
 
+.page__image {
+  border-radius: $border-radius;
+}
+
 .page__hero-image {
   width: 100%;
   height: auto;
