@@ -6,6 +6,7 @@ date       : 2021-11-27
 venue      : 'Computer Graphics Forum'
 conference : 'Pacific Graphics'
 paperurl   : 'https://markvanderuit.github.io/files/2021-11-27-paper-spectral/spectral-paper.pdf'
+journalurl : 'https://www.doi.org/10.1111/cgf.14408'
 image      : '../images/publications/spectral-teaser.png'
 bibtex     :
   name       : 'RuitEisemann2021'
