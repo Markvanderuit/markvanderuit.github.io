@@ -10,7 +10,7 @@ locale                   : "en-NL"
 title                    : "Mark van de Ruit"
 title_separator          : "-"
 name                     : &name "Mark van de Ruit"
-description              : &description "PhD student in computer graphics, grumpy DND dungeon master."
+description              : &description "PhD student in computer graphics, grumpy game master"
 url                      : https://markvanderuit.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site,  e.g. "/blog"
 repository               : "markvanderuit/markvanderuit.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mark van de Ruit"
   avatar           : "profile.png"
-  bio              : "PhD student in computer graphics, grumpy DND dm."
+  bio              : "PhD student in computer graphics, grumpy game master"
   location         : "TU Delft, Netherlands"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=S-Fc2gEAAAAJ"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mark-van-de-ruit-848570135"
   orcid            : "https://orcid.org/0000-0002-0981-8963"
   pinterest        :
   soundcloud       :
