@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-cv
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,36 +7,50 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Experience
+
+- **PhD Student, Computer Graphics**<br>
+  Jul 2020 - Present<br>
+  Delft University of Technology<br>
+- **Scientific Programmer**<br>
+  Nov 2019 - June 2020<br>
+  Delft University of Technology
+- **Software Developer**<br>
+  Mar 2016 - Oct 2019 (part time)<br>
+  FSE Turnstiles
+- **Web Developer**<br>
+  Jul 2017 - Aug 2017 (part time)<br>
+  Delft University of Technology
+- **Technical Support**<br>
+  Feb 2013 - Feb 2016 (part time)<br>
+  Studentaanhuis.nl
 
 ## Education
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-## Work experience
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **PhD Computer Graphics** (expected)<br>
+  Delft University of Technology, 2024/25
+- **MSc Computer Science**<br>
+  Delft University of Technology, 2019
   
+## Publications
+
+{% for post in site.publications reversed %}
+- **{{ post.title }}**<br>
+  {{ post.venue }} ({{ post.conference }} {{ post.bibtex.year }})
+{% endfor %}
+
 ## Skills
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **General.** Computer graphics, 3D rendering, scientific research, problem solving.
+- **Programming.** C++, OpenGL, GLSL, CUDA, LaTeX, CMake, Git.
+  
+## Languages
 
-## Publications
+- **Dutch.** Native proficiency.
+- **English.** Professional proficiency - Cambridge ESOL Level 3 Grade A.
+- **German.** Professional profieincy - 5 years living and learning in Germany.
+
+<!-- ## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,14 +60,4 @@ redirect_from:
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-## Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Service and leadership
-
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
