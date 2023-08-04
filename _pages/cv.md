@@ -31,12 +31,14 @@ redirect_from:
   Delft University of Technology, 2024/25
 - **MSc Computer Science**<br>
   Delft University of Technology, 2019
+- **Propadeutic Game Architecture**<br>
+  Breda University of Applied Sciences, 2014
   
 ## Publications
 
 {% for post in site.publications reversed %}
 - **{{ post.title }}**<br>
-  {{ post.venue }} ({{ post.conference }} {{ post.bibtex.year }})
+  {{ post.venue }} ({{ post.conference }}), {{ post.bibtex.year }}
 {% endfor %}
 
 ## Skills
