@@ -50,7 +50,7 @@ redirect_from:
 
 - **Dutch.** Native proficiency.
 - **English.** Professional proficiency - Cambridge ESOL Level 3 Grade A.
-- **German.** Professional profieincy - 5 years living and learning in Germany.
+- **German.** Basic proficeincy - 5 years living and learning in Germany.
 
 <!-- ## Publications
 
