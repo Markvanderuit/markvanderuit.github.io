@@ -10,11 +10,16 @@ redirect_from:
 
 Hi!
 
-I'm a fourth-year PhD student at the [Computer Graphics & Visualization](https://graphics.tudelft.nl) group at the [TU Delft](https://www.tudelft.nl/). My research interests generally include offline rendering, spectral rendering, and high-dimensional data analysis. Together with my supervisor, [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/), I have worked on a variety of projects involving spectral importance sampling, artist-controllable spectral uplifting, and linear-runtime dimensionality reduction on the GPU.
+I'm an avid computer scientist and graphics programmer, currently wrapping up my PhD at the [Computer Graphics & Visualization](https://graphics.tudelft.nl) group at [TU Delft](https://www.tudelft.nl/). 
+My interests have varied from online/offline/spectral rendering to artist-friendly tooling, complex GPU algorithms and high-dimensional data analysis.
 
-During my research, I mostly work with OpenGL/C++, which leads to the occasional demos and renders. I've also picked up a liking for vector art, both in my publications and personal time. You can find plenty of examples throughout my portfolio and publications.
+I relish tackling problems for which no efficient solution (yet) exists, greatly enjoy learning from my colleagues in the field, and am always exploring new topics, whether it's software frameworks, algorithmic approaches, or any part of the graphics pipeline.
+I mostly work with C++, OpenGL, and occasionally Vulkan.
 
-In my own time, I enjoy video games, fantasy/sci-fi reading, and running. I’m also a fan of tabletop RPGs and worldbuilding, so I run a few games as an occasionally grumpy game master. I don’t really use social networks, but if you’d like to chat, feel free to contact me!
+In my own time, I enjoy video games, fantasy/sci-fi novels, and running.
+I'm also a huge fan of tabletop RPGs and worldbuilding, so I run a few games as an occasionally grumpy game master.
+
+If you'd like to chat, feel free to reach out!
 
 ## Recent publications
 

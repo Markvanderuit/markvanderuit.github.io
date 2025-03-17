@@ -7,59 +7,45 @@ redirect_from:
   - /resume
 ---
 
-## Experience
+## Professional experience
 
-- **PhD Student, Computer Graphics**<br>
-  Jul 2020 - Present<br>
-  Delft University of Technology<br>
+- **PhD (expected summer 2025)**<br>
+  2020 - 2025<br>
+  TU Delft<br>
 - **Scientific Programmer**<br>
-  Nov 2019 - June 2020<br>
-  Delft University of Technology
-- **Software Developer**<br>
-  Mar 2016 - Oct 2019 (part time)<br>
+  2019 - 2020<br>
+  TU Delft
+- **Full-Stack Developer**<br>
+  2016 - 2019 | part time<br>
   FSE Turnstiles
-- **Web Developer**<br>
-  Jul 2017 - Aug 2017 (part time)<br>
-  Delft University of Technology
 - **Technical Support**<br>
-  Feb 2013 - Feb 2016 (part time)<br>
+  2013 - 2016 | part time<br>
   Studentaanhuis.nl
 
-## Education
-
-- **PhD Computer Graphics** (expected)<br>
-  Delft University of Technology, 2024/25
-- **MSc Computer Science**<br>
-  Delft University of Technology, 2019
-- **Propadeutic Game Architecture**<br>
-  Breda University of Applied Sciences, 2014
-  
-## Publications
+## Scientific publications
 
 {% for post in site.publications reversed %}
 - **{{ post.title }}**<br>
   {{ post.venue }} ({{ post.conference }}), {{ post.bibtex.year }}
 {% endfor %}
 
+## Education
+
+- **MSC/BSC Computer Science**<br>
+  Delft University of Technology, 2019
+- **Propadeutic Game Design**<br>
+  Breda University of Applied Sciences, 2014
+
 ## Skills
 
-- **General.** Computer graphics, 3D rendering, scientific research, problem solving.
-- **Programming.** C++, OpenGL, GLSL, CUDA, LaTeX, CMake, Git.
+- Computer graphics, GPU programming
+- Research and problem solving
+- Online/offline/spectral rendering
+- Color science
+- C++, OpenGL, Vulkan, CUDA, GLSL, Python, Git, CMake, etc.
   
 ## Languages
 
 - **Dutch.** Native proficiency.
-- **English.** Professional proficiency - Cambridge ESOL Level 3 Grade A.
+- **English.** Professional proficiency - Cambridge ESOL Level 3A.
 - **German.** Basic proficiency - 5 years living and learning in Germany.
-
-<!-- ## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
