@@ -10,7 +10,7 @@ locale                   : "en-NL"
 title                    : "Mark van de Ruit"
 title_separator          : "-"
 name                     : &name "Mark van de Ruit"
-description              : &description "PhD student, computer graphics, color science"
+description              : &description "PhD student; rendering, color science, 3d vis"
 url                      : https://markvanderuit.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site,  e.g. "/blog"
 repository               : "markvanderuit/markvanderuit.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mark van de Ruit"
   avatar           : "profile.png"
-  bio              : "PhD student<br>computer graphics, color science"
+  bio              : "PhD student; rendering,<br>color science, 3d vis"
   location         : "TU Delft, Netherlands"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=S-Fc2gEAAAAJ"
