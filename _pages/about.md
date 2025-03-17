@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<p><img src="../images/about-teaser.jpg" alt="page_image" class="page__image"/></p>
+
 Hi!
 
 I'm an avid computer scientist and graphics programmer, currently wrapping up my PhD at the [Computer Graphics & Visualization](https://graphics.tudelft.nl) group at [TU Delft](https://www.tudelft.nl/). 
