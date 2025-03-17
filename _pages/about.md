@@ -1,5 +1,7 @@
 ---
 permalink: /
+layout: archive
+image: '../images/about-teaser.jpg'
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -7,8 +9,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<p><img src="../images/about-teaser.jpg" alt="page_image" class="page__image"/></p>
 
 Hi!
 
