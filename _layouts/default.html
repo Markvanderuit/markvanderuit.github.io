@@ -16,6 +16,10 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% if page.image %}
+      <p><img src="{{ page.image }}" alt="page_image" class="page__image"/></p>
+    {% endif %}
+    
     {{ content }}
 
     <div class="page__footer">

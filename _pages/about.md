@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: archive
 image: '../images/about-teaser.jpg'
 title: "About me"
 excerpt: "About me"
