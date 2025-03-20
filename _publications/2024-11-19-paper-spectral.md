@@ -8,6 +8,7 @@ conference : 'SIGGRAPH Asia'
 paperurl   : 'https://markvanderuit.github.io/files/2024-11-19-paper-spectral/spectral-paper.pdf'
 journalurl : 'https://doi.org/10.1145/3680528.3687698'
 codeurl    : 'https://github.com/markvanderuit/metameric_dev'
+videourl   : 'https://markvanderuit.github.io/files/2024-11-19-paper-spectral/spectral-editing.mp4'
 image      : '../images/publications/control-teaser.png'
 bibtex     :
   name       : 'RuitEisemann2024'
@@ -27,7 +28,4 @@ Spectral rendering has received increasing attention in recent years. Yet, solut
 
 We present an uplifting technique with fine-grained spectral appearance control under direct and indirect illumination, even enabling the placement of spectral constraints in a specific scene. Our approach allows for a flexible authoring process, and solves for the resulting spectra efficiently. Additionally, we show that our method's memory overhead during rendering is kept small, by introducing a compact spectral texture format.
 
-{: .page__image }
-![Overview](../files/2024-11-19-paper-spectral/spectral-editing.mp4)
-s
 {% include single_publication_bibtex.md %}
